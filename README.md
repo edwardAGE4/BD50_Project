@@ -1,7 +1,7 @@
 # BD50_Project: ONLINE TRAINING (FORMATIONS EN LIGNE)
 Oracle 11g Database conception with PLSQL
 
-# Description of the trainings proposed on the site (showcase of the site)
+## Description of the trainings proposed on the site (showcase of the site)
 * Management of news and promotions
 * Creating a customer account
 * Create and maintain a shopping cart for a customer
@@ -10,11 +10,11 @@ Oracle 11g Database conception with PLSQL
 * Download files associated with the training
 * Ability to ask questions via email to a trainer
 * Administration part:
--- Creating trainings and associated files
--- Validation of orders
+  - Creating trainings and associated files
+  - Validation of orders
 
 
-# Description des formations proposées sur le site (vitrine du site)
+## Description des formations proposées sur le site (vitrine du site)
 * Gestion des nouvelles et des promotions
 * Créer un compte client
 * Créer et gérer un panier d'achat pour un client
@@ -23,5 +23,21 @@ Oracle 11g Database conception with PLSQL
 * Télécharger les fichiers associés à la formation
 * Possibilité de poser des questions par courrier électronique à un formateur
 * **Partie administration:**
--- Création de formations et de fichiers associés
--- Validation des commandes
+  - Création de formations et de fichiers associés
+  - Validation des commandes
+  
+## PL/SQL Notion used
+* Trigger
+* Function
+* Procedure
+
+## Conception and modelisation tools
+* APEX
+* Windesign 16
+* SQL Developper/ SQL Plus
+
+## Actors
+### Author
+* **giovanni AYANOU** - *Group Project* - [edwardAGE4](https://github.com/edwardAGE4)
+### List of Contributor
+See also the list of [contributors](https://github.com/edwardAGE4/BD50_Project/contributors) who participated in this project.
