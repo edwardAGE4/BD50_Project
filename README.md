@@ -10,8 +10,8 @@ Oracle 11g Database conception with PLSQL
 * Download files associated with the training
 * Ability to ask questions via email to a trainer
 * Administration part:
-** Creating trainings and associated files
-** Validation of orders
+-- Creating trainings and associated files
+-- Validation of orders
 
 
 # Description des formations proposées sur le site (vitrine du site)
@@ -22,6 +22,6 @@ Oracle 11g Database conception with PLSQL
 * Simulation de paiement en ligne
 * Télécharger les fichiers associés à la formation
 * Possibilité de poser des questions par courrier électronique à un formateur
-* Partie administration:
-** Création de formations et de fichiers associés
-** Validation des commandes
+* **Partie administration:**
+-- Création de formations et de fichiers associés
+-- Validation des commandes
