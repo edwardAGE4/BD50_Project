@@ -1,0 +1,214 @@
+.name_suite {
+    margin-left: -2px !important;
+}
+.name_suite_site {
+    margin-left: -10px !important;
+}
+
+.name{
+    text-shadow: 1px 2px 2px black;
+}
+
+.name2{
+    text-shadow: 1px 2px 2px #fff;
+}
+
+.name_site{
+    text-shadow: 10px 3px 5px black;
+}
+
+.name2_site{
+    text-shadow: 6px 3px 2px black;
+}
+
+.name_site_color{
+    color: rgba(86, 113, 219, 1) !important;
+}
+
+.custom_list{
+    list-style-type: square !important;
+}
+
+.text_justify{
+    text-align: justify !important;
+}
+
+.li_head{
+    margin-bottom: 3px;
+    margin-top: 15px;
+    background-color:transparent;
+    height: 33px;
+    color: #fff;
+    margin-left: 21px;
+    /*border-bottom: 1px solid #2196f3;*/
+    display: block;
+}
+
+.ML2{
+    margin-left: 9px;
+}
+/*#4572a7*/
+
+.bl{
+    color: #fff !important;
+}
+
+.gui-controls > li {
+    position: relative;
+    margin-bottom: 2px !important;
+}
+
+#menubar::before {
+    background: #4572a7  !important;
+    /*#6498bf #4572a7 #479ccf  #0f75bc*/
+    
+}
+
+.menubar-scroll-panel{
+color: #fff !important;
+}
+
+.menubar-inverse .gui-controls li .title {
+    color: rgba(255, 255, 255, 0.55);
+    text-shadow: none !important;
+}
+
+
+.gui-icon {
+    
+    color: #fff !important ;
+   
+}
+
+.gui-icon:hover {
+    background-color: rgba(100, 152, 275, 1) !important;
+    color: #fff !important;
+}
+
+.gui-controls .menu_titre .title {
+    /*color: rgba(71, 156, 207, 1) !important;*/
+    color: rgba(149, 183, 213, 0.7) !important;
+}
+
+.gui-controls .menu_titre {
+    margin-top: 19px !important;
+}
+
+.menu_titre_icon {
+    background-color: rgba(71, 156, 207, 1) !important;
+    color: rgba(255,255,255,0.4) !important;
+}
+
+/*.menubar-inverse .gui-controls a.expanded .gui-icon, .menubar-inverse .gui-controls li.active .gui-icon,
+ .menubar-inverse .gui-controls li.active .gui-icon:hover {
+    background-color: rgba(49, 53, 52, 1) !important;
+    border-color: #ffffff !important;
+    color: #0aa89e !important;
+}
+*/
+
+/*.gui-controls a.expanded .gui-icon, .gui-controls li.active .gui-icon, .gui-controls li.active .gui-icon{
+ background-color: rgba(49, 53, 52, 1) !important;
+    border-color: #ffffff !important;
+    color: #0aa89e !important;
+}*/
+
+.gui-controls a.expanded .gui-icon, .gui-controls li.active .gui-icon, .gui-controls li.active  .gui-icon:hover {
+    background-color: rgba(100, 152, 275, 1) !important;
+    border-color: #2196f3 !important;
+    color: #fff !important;
+}
+
+.menubar-inverse .gui-controls > li ul > li > a:active, .menubar-inverse .gui-controls > li ul > li > a.active
+{
+    background-color:rgba(100, 152, 217, 0.4) !important;
+}
+
+
+.gui-controls a.expanded .gui-icon, .gui-controls li.active .gui-icon{
+    background-color: #ffffff !important;
+    border-color: #2196f3 !important;
+    color: rgba(100, 152, 191, 1) !important;
+}
+
+/*guifolder li active color*/
+.gui-controls li.active {
+     background-color: rgba(100, 152, 219, 0.189) !important;
+}
+
+/*guifolder gui icon li activ*/
+.menubar-pin .menubar-inverse .gui-folder:hover:not(.active) .gui-icon{
+    background-color:rgba(100, 152, 219, 0.5) !important;
+
+    /*color: rgba(100, 152, 191, 1) !important;*/
+}
+
+
+
+.gui-controls li.gui-folder.expanded > a .title, .gui-controls li.gui-folder.active > a .title {
+    color: #c2deef;
+}
+
+ .gui-controls li.gui-folder.active  {
+    background-color: #fff;
+}
+
+.gui-controls li.gui-folder > a .title {
+     font-style: normal !important;
+    color: #c2deef !important;
+    font-weight: bold;
+}
+
+.gui-controls li .title {
+    color: #c2deef !important;
+    font-style: normal !important;
+    font-weight: bold;
+ }
+
+
+ .gui-controls li :hover {
+    color: #fff !important;
+ }
+
+.gui-controls li.active > a .title {
+    color: #fff !important;
+    font-style: normal !important;
+    font-weight: 500;
+}
+
+
+.menubar-pin .menubar-inverse .gui-controls > li:not(.gui-folder).active > a {
+    background-color: rgba(100, 152, 219, 0.3) !important;
+}
+
+
+.menubar-visible .menubar-inverse .gui-controls > li:not(.gui-folder).active > a {
+    background-color: rgba(100, 152, 219, 0.3) !important;
+}
+
+.menubar-pin .menubar-inverse .gui-controls > li:not(.gui-folder) > a:hover {
+    background-color: rgba(100, 152, 219, 0.3) !important;
+}
+
+.menubar-inverse .gui-controls > li ul > li > a:hover, .menubar-inverse .gui-controls > li ul > li > a:focus {
+    background-color: rgba(100, 152, 219, 0.3) !important;
+}
+
+
+
+/*site */
+.scroll-box {
+position: relative;
+}
+.scrollspy-example {
+position: relative;
+overflow-y: scroll;
+height: 500px; 
+}
+
+.inner-panel {
+    height: 100%;
+    background: url('../autres/confrm.jpg') repeat fixed   !important;           
+   /* background-color: dodgerblue;*/
+
+}
